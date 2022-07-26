@@ -1,4 +1,3 @@
-add disk_alt
 add disk_alt/bb3/Sonic.ar.00
 add disk_alt/bb3/Sonic.ar.01
 add disk_alt/bb3/Sonic.ar.02
