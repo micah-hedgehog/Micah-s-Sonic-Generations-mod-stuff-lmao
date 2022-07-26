@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Config",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Choose your Style!",
+          "Description": [
+            "You can choose to play as Sonic With Regular Textures or as one More Akin to the Archie Comics!"
+          ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "disk"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+      {
+        "DisplayName": "Vanilla",
+        "Value": "disk",
+        "Description": [
+          "Vanilla Gens Sonic Textures"
+        ]
+      },
+      {
+        "DisplayName": "Archie",
+        "Value": "disk_Alt",
+        "Description": [
+          "Gen Sonic Textures inspired by the Archie Comics"
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
