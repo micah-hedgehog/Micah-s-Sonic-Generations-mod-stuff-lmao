@@ -1,17 +1,17 @@
-mod_files.txt
-mod_version.ini
-/disk/bb3/evSonic.ar.00
-/disk/bb3/evSonic.arl
-/disk/bb3/Sonic.ar.00
-/disk/bb3/Sonic.ar.01
-/disk/bb3/Sonic.ar.02
-/disk/bb3/Sonic.arl
-/disk_alt/bb3/evSonic.ar.00
-/disk_alt/bb3/evSonic.arl
-/disk_alt/bb3/Sonic.ar.00
-/disk_alt/bb3/Sonic.ar.01
-/disk_alt/bb3/Sonic.ar.02
-/disk_alt/bb3/Sonic.arl
-ArchieShoes.json
-changelog.md
-mod.ini
+add mod_files.txt
+add mod_version.ini
+add /disk/bb3/evSonic.ar.00
+add /disk/bb3/evSonic.arl
+add /disk/bb3/Sonic.ar.00
+add /disk/bb3/Sonic.ar.01
+add /disk/bb3/Sonic.ar.02
+add /disk/bb3/Sonic.arl
+add /disk_alt/bb3/evSonic.ar.00
+add /disk_alt/bb3/evSonic.arl
+add /disk_alt/bb3/Sonic.ar.00
+add /disk_alt/bb3/Sonic.ar.01
+add /disk_alt/bb3/Sonic.ar.02
+add /disk_alt/bb3/Sonic.arl
+add ArchieShoes.json
+add changelog.md
+add mod.ini
